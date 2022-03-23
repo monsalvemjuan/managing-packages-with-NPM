@@ -4,11 +4,10 @@
   "keywords": [ "descriptive", "related", "freecodecamp" ],
   "license": "MIT",
   "version": "1.2.0",
-  "package": "2.10.2",
-  "name": "fcc-learn-npm-package-json",
+    "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0",
-    "moment": "2.14.0"
+    "moment": "2.10.0"
   },
   "main": "server.js",
   "scripts": {
