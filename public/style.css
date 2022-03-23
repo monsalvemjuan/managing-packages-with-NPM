@@ -27,6 +27,14 @@ ul {
 a {
 	color: #2574A9;
 }
+
+h1 {
+	font-size: 4em;
+  }
+
+  input[type=text], label {
+	margin-bottom: 8px;
+  }
 /****** Logo Div Styling ******/
 
 img {
